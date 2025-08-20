@@ -23,9 +23,9 @@
 ### 安装步骤
 
 1. 克隆仓库git clone https://github.com/awakm618/subnet_calculator_mcp.git
-cd subnet-calculator-mcp
-2. 安装依赖pip install -r requirements.txt
-3. 启动服务器python3 main.py
+2. cd subnet-calculator-mcp
+3. 安装依赖pip install -r requirements.txt
+4. 启动服务器python3 main.py
 服务器将在默认端口启动，使用SSE传输方式，允许所有网络接口访问。
 
 ## API 使用
