@@ -22,7 +22,7 @@
 
 ### 安装步骤
 
-1. 克隆仓库git clone https://github.com/yourusername/subnet-calculator-mcp.git
+1. 克隆仓库git clone https://github.com/awakm618/subnet_calculator_mcp.git
 cd subnet-calculator-mcp
 2. 安装依赖pip install -r requirements.txt
 3. 启动服务器python3 main.py
